@@ -1,0 +1,30 @@
+expname: test
+exptag: ${now:%Y-%m-%d}
+
+# metadata specialised for each experiment
+core:
+  version: 0.0.1
+  tags:
+    - ${exptag}
+
+hydra:
+  run:
+    dir: ${oc.env:HYDRA_JOBS}/singlerun/${exptag}/${expname}/
+
+  sweep:
+    dir: ${oc.env:HYDRA_JOBS}/multirun/${exptag}/${expname}/
+    subdir: ${hydra.job.num}_${hydra.job.id}
+
+  job:
+    env_set:
+      WANDB_START_METHOD: thread
+      WANDB_DIR: ${oc.env:WABDB_DIR}
+
+defaults:
+  - data: pretrain
+  - logging: default
+  - model: diffusion
+  - optim: default
+  - train: default
+#    Decomment this parameter to get parallel job running
+  # - override hydra/launcher: joblib

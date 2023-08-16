@@ -1,0 +1,26 @@
+root_path: ${oc.env:PROJECT_ROOT}/data/inorganic
+
+train_max_epochs: 1000
+early_stopping_patience: 100000
+teacher_forcing_max_epoch: 500
+
+
+datamodule:
+  _target_: diffcsp.pl_data.datamodule.PreTrainCrystDataModule
+
+  datasets:
+    train:
+      _target_: diffcsp.pl_data.dataset.PreTrainCrystDataset
+      name: PreTrain Inorganic
+      filepath: ${data.root_path}/data_pr_con.pickle
+      listpath: ${data.root_path}/data_pr_con_80.list
+
+  num_workers:
+    train: 0
+    val: 0
+    test: 0
+
+  batch_size:
+    train: 512
+    val: 0
+    test: 0
