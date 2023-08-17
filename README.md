@@ -87,11 +87,11 @@ Test pcc: 0.4857
 *************** Optimization ***************
 
 Top-5 Results: 
-489-O1Cu1: 4.4751
-385-Cu8: 3.2595
-249-Cu6: 3.2047
-486-Cu4: 3.1240
-163-Cu4: 3.0369
+489-xx: xx
+385-xx: xx
+249-xx: xx
+486-xx: xx
+163-xx: xx
 ```
 
 ### An example script for the entire pipeline
