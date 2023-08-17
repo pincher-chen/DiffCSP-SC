@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaCaCu3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81694500
+_cell_length_b   4.05464200
+_cell_length_c   9.10950000
+_cell_angle_alpha   83.58806700
+_cell_angle_beta   89.99390500
+_cell_angle_gamma   90.01919200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaCu3O7
+_chemical_formula_sum   'Ba1 Ca1 Cu3 O7'
+_cell_volume   140.09987428
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.69885531  0.11866172  0.15886644  1
+  Ca  Ca1  1  0.69730659  0.41724266  0.71285189  1
+  Cu  Cu2  1  0.19756011  0.99841019  0.57237846  1
+  Cu  Cu3  1  0.19857963  0.73376677  0.93954078  1
+  Cu  Cu4  1  0.19896319  0.56005740  0.35833781  1
+  O  O5  1  0.69974982  0.56839508  0.34972829  1
+  O  O6  1  0.69728952  0.95039961  0.59236147  1
+  O  O7  1  0.19744073  0.04494344  0.77840839  1
+  O  O8  1  0.69929679  0.64748439  0.93449112  1
+  O  O9  1  0.19974004  0.61794639  0.14329396  1
+  O  O10  1  0.19719472  0.49904877  0.56739951  1
+  O  O11  1  0.19888455  0.05610059  0.36586389  1

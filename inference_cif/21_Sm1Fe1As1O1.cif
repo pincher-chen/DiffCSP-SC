@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SmFeAsO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18958000
+_cell_length_b   4.18956100
+_cell_length_c   3.87314200
+_cell_angle_alpha   89.97409700
+_cell_angle_beta   89.99687200
+_cell_angle_gamma   119.97997400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmFeAsO
+_chemical_formula_sum   'Sm1 Fe1 As1 O1'
+_cell_volume   58.88715777
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.30353274  0.43081154  0.13445504  1
+  Fe  Fe1  1  0.97000822  0.76429658  0.63452766  1
+  As  As2  1  0.63692350  0.09815964  0.63449075  1
+  O  O3  1  0.97018653  0.76466625  0.13470855  1

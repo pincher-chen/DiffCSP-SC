@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2MnCrH6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05656400
+_cell_length_b   5.05554800
+_cell_length_c   5.05584200
+_cell_angle_alpha   60.01071000
+_cell_angle_beta   60.00087600
+_cell_angle_gamma   60.01421500
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2MnCrH6
+_chemical_formula_sum   'Ca2 Mn1 Cr1 H6'
+_cell_volume   91.40856689
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.26853849  0.79045431  0.22757797  1
+  Ca  Ca1  1  0.76858468  0.29050579  0.72749235  1
+  Mn  Mn2  1  0.01859171  0.54058093  0.97751122  1
+  Cr  Cr3  1  0.51838358  0.04063199  0.47756281  1
+  H  H4  1  0.77714347  0.78246879  0.73535465  1
+  H  H5  1  0.26067739  0.29853726  0.21920797  1
+  H  H6  1  0.77634005  0.29917095  0.21877910  1
+  H  H7  1  0.26058125  0.29897439  0.73550132  1
+  H  H8  1  0.25995799  0.78291917  0.73586964  1
+  H  H9  1  0.77692339  0.78166842  0.22019298  1

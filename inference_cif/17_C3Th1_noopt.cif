@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ThC3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68648434
+_cell_length_b   3.68158793
+_cell_length_c   3.68554115
+_cell_angle_alpha   89.96529388
+_cell_angle_beta   89.98713684
+_cell_angle_gamma   89.94235992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThC3
+_chemical_formula_sum   'Th1 C3'
+_cell_volume   50.02055725
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.72543740  0.23274718  0.77632242  1
+  C  C1  1  0.22571915  0.73280513  0.77619368  1
+  C  C2  1  0.72597957  0.73307264  0.27592397  1
+  Th  Th3  1  0.22619760  0.23305184  0.27641463  1

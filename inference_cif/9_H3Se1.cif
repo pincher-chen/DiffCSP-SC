@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_H3Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.42957500
+_cell_length_b   6.44545900
+_cell_length_c   2.69547600
+_cell_angle_alpha   88.90830000
+_cell_angle_beta   103.34364600
+_cell_angle_gamma   102.39389600
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H3Se
+_chemical_formula_sum   'H3 Se1'
+_cell_volume   56.59518226
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.57401452  0.02064535  0.82041163  1
+  H  H1  1  0.78827543  0.53184614  0.48777149  1
+  H  H2  1  0.64121395  0.92011639  0.94181453  1
+  Se  Se3  1  0.36837109  0.41854212  0.37388835  1

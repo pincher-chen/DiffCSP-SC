@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NdFeAsF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16381800
+_cell_length_b   4.16172500
+_cell_length_c   4.44126600
+_cell_angle_alpha   90.01406800
+_cell_angle_beta   89.97159400
+_cell_angle_gamma   119.96782900
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdFeAsF
+_chemical_formula_sum   'Nd1 Fe1 As1 F1'
+_cell_volume   66.67195313
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.97085380  0.68762012  0.25705730  1
+  Fe  Fe1  1  0.63723652  0.02090059  0.75697829  1
+  As  As2  1  0.30334422  0.35384031  0.75682390  1
+  F  F3  1  0.63722946  0.02077998  0.25696451  1

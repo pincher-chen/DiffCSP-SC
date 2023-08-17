@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Mg3B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88203200
+_cell_length_b   6.28698100
+_cell_length_c   6.28476800
+_cell_angle_alpha   120.05551200
+_cell_angle_beta   89.99658900
+_cell_angle_gamma   90.00201300
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3B
+_chemical_formula_sum   'Mg6 B2'
+_cell_volume   132.76326814
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.92570544  0.11453224  0.28087927  1
+  Mg  Mg1  1  0.92568250  0.43036349  0.81325849  1
+  Mg  Mg2  1  0.92562609  0.89886553  0.59725641  1
+  Mg  Mg3  1  0.42573957  0.73084672  0.19765864  1
+  Mg  Mg4  1  0.42573091  0.19936194  0.98158824  1
+  Mg  Mg5  1  0.42569302  0.51483819  0.51363429  1
+  B  B6  1  0.92604306  0.48139451  0.23060804  1
+  B  B7  1  0.42582641  0.14811838  0.56403261  1

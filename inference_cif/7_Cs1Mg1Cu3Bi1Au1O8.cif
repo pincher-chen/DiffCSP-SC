@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_CsMgCu3BiAuO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.14818700
+_cell_length_b   8.06037200
+_cell_length_c   8.91401600
+_cell_angle_alpha   97.21858200
+_cell_angle_beta   98.82173100
+_cell_angle_gamma   91.19684500
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMgCu3BiAuO8
+_chemical_formula_sum   'Cs1 Mg1 Cu3 Bi1 Au1 O8'
+_cell_volume   221.56451059
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.15058732  0.66126103  0.09865255  1
+  Mg  Mg1  1  0.06299241  0.26022244  0.87584121  1
+  Cu  Cu2  1  0.54832005  0.93289239  0.84503479  1
+  Cu  Cu3  1  0.23986285  0.13489963  0.15479850  1
+  Cu  Cu4  1  0.43598708  0.28249984  0.59974237  1
+  Bi  Bi5  1  0.85420594  0.92338973  0.44703168  1
+  Au  Au6  1  0.97720803  0.68000612  0.69349472  1
+  O  O7  1  0.41042294  0.67557124  0.54454815  1
+  O  O8  1  0.88236809  0.18074792  0.49060748  1
+  O  O9  1  0.51361064  0.14062625  0.78046118  1
+  O  O10  1  0.29438691  0.96151521  0.28990540  1
+  O  O11  1  0.98649306  0.39714882  0.70317706  1
+  O  O12  1  0.54582693  0.69793887  0.84477833  1
+  O  O13  1  0.68130676  0.03342898  0.05586485  1
+  O  O14  1  0.20842000  0.33636552  0.08575574  1
