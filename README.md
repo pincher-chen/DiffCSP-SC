@@ -1,4 +1,4 @@
-## Tutorial for property guidance pipeline
+## Superconductors Inverse Design Pipeline
 
 ### Step 1: Prepare the dataset
 
