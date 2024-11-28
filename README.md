@@ -1,6 +1,7 @@
 ## Learning Superconductivity from Ordered and Disordered Material Structures (NeuIPS 2024)
 
-## Superconductors Inverse Design Pipeline, [**[Paper]**](https://neurips.cc/virtual/2024/poster/97553)
+## Superconductors Inverse Design Pipeline
+[**[Paper]**](https://neurips.cc/virtual/2024/poster/97553)
 
 ### Step 1: Prepare the dataset
 
@@ -111,4 +112,17 @@ python scripts/optimization.py --model_path ${PWD}/singlerun/SuperCon_logtc/guid
 
 python scripts/eval_optimization.py --dir ${PWD}/singlerun/SuperCon_logtc
 ```
+
+### Citation
+Please consider citing our work if you find it helpful:
+
+```
+@inproceedings{chenlearning,
+  title={Learning Superconductivity from Ordered and Disordered Material Structures},
+  author={Chen, Pin and Peng, Luoxuan and Jiao, Rui and Mo, Qing and Zhen, WANG and Huang, Wenbing and Liu, Yang and Lu, Yutong},
+  booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+  year={2024}
+}
+```
+
 
