@@ -1,4 +1,6 @@
-## Superconductors Inverse Design Pipeline
+## Learning Superconductivity from Ordered and Disordered Material Structures (NeuIPS 2024)
+
+## Superconductors Inverse Design Pipeline, [**[Paper]**](https://neurips.cc/virtual/2024/poster/97553)
 
 ### Step 1: Prepare the dataset
 
