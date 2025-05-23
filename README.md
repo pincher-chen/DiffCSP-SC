@@ -117,12 +117,18 @@ python scripts/eval_optimization.py --dir ${PWD}/singlerun/SuperCon_logtc
 Please consider citing our work if you find it helpful:
 
 ```
-@inproceedings{chenlearning,
-  title={Learning Superconductivity from Ordered and Disordered Material Structures},
-  author={Chen, Pin and Peng, Luoxuan and Jiao, Rui and Mo, Qing and Zhen, WANG and Huang, Wenbing and Liu, Yang and Lu, Yutong},
-  booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
-  year={2024}
+@inproceedings{SuperCon3D_2024Chen,
+ author = {Chen, Pin and Peng, Luoxuan and Jiao, Rui and Mo, Qing and Wang, Zhen and Huang, Wenbing and Liu, Yang and Lu, Yutong},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages = {108902--108928},
+ publisher = {Curran Associates, Inc.},
+ title = {Learning Superconductivity from Ordered and Disordered Material Structures},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/c4e3b55ed4ac9ba52d7df11f8bddbbf4-Paper-Datasets_and_Benchmarks_Track.pdf},
+ volume = {37},
+ year = {2024}
 }
+
 ```
 
 
